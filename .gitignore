@@ -1,0 +1,39 @@
+# IntelliJ-based file
+.idea/
+
+# Generated files
+bin/
+gen/
+out/
+import-summary.txt
+
+# Gradle files
+.gradle
+build/
+
+# Config file
+local.properties
+
+# Log Files
+*.log
+
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Android Studio
+.navigation
+captures/
+output.json
+
+# AS Default
+*.iml
+.DS_Store
+.externalNativeBuild
